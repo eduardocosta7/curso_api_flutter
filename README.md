@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Thumbnail GitHub](https://github.com/alura-cursos/flutter_webapi_first_course/raw/main/thumbnail01.png)
 
 Repositório do Curso de Flutter com Web API - Integrando sua Aplicação, da Alura. 
@@ -39,3 +40,7 @@ Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cur
 Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
 
 *Te vejo lá!*
+=======
+# curso_api_flutter
+Testando requisições de API's em um app flutter
+>>>>>>> 824ca07483c42a641a39ead7da5c5da0d1642bc8
