@@ -29,6 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     refresh();
+    JournalService().get();
     super.initState();
   }
 
